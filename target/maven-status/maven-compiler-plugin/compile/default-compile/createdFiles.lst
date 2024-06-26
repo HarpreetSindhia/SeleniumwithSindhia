@@ -1,0 +1,9 @@
+codewithharry\resources1\ExtentReporterNG.class
+codewithharry\pageObjects\ConfirmationPage.class
+codewithharry\pageObjects\Checkout.class
+codewithharry\pageObjects\ProductCatalogue.class
+codewithharry\pageObjects\App.class
+codewithharry\AbstractComponents\AbstractComponents.class
+codewithharry\pageObjects\OrdersPage.class
+codewithharry\pageObjects\LandingPage.class
+codewithharry\pageObjects\OrderConfirmed.class

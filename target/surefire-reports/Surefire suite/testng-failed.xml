@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="codewithharry.tests.SubmitCartTest">
+        <methods>
+          <include name="submitCart" invocation-numbers="0"/>
+          <include name="OrderConfirmed"/>
+          <include name="closeDriver"/>
+          <include name="launchApplication"/>
+        </methods>
+      </class> <!-- codewithharry.tests.SubmitCartTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
