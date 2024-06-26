@@ -80,6 +80,10 @@ public class StandAloneTest_1
 		driver.close();
 
 // Hello everyone
+
+
+//We should change our efforts not the goal 
+
 		
 		
 		
