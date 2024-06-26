@@ -78,6 +78,8 @@ public class StandAloneTest_1
 		Assert.assertTrue(confirmMessage.equalsIgnoreCase("Thankyou for the order."));
 		
 		driver.close();
+
+// Hello everyone
 		
 		
 		
