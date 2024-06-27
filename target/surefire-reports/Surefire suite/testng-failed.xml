@@ -3,14 +3,13 @@
 <suite name="Failed suite [Surefire suite]" verbose="0">
   <test thread-count="5" name="Surefire test(failed)" verbose="0">
     <classes>
-      <class name="codewithharry.tests.SubmitCartTest">
+      <class name="codewithharry.tests.ErrorValidation">
         <methods>
-          <include name="submitCart" invocation-numbers="0"/>
-          <include name="OrderConfirmed"/>
           <include name="closeDriver"/>
           <include name="launchApplication"/>
+          <include name="LoginErrorValidation"/>
         </methods>
-      </class> <!-- codewithharry.tests.SubmitCartTest -->
+      </class> <!-- codewithharry.tests.ErrorValidation -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->
